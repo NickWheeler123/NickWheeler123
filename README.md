@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickWheeler123
-- 👀 I’m interested in Analysing Data
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Many Projects
+- 🌍 I’ve worked in banking forsome time , living around the world.
+- 🌱 I’m currently studying Data Analytics at CSU in the master program
+- 💞️ I’m looking to collaborate on Many Projects in the futire
 - 📫 How to reach me by email
 
 <!---
